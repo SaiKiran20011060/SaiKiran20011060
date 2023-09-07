@@ -18,6 +18,7 @@
 <a href="https://instagram.com/https://instagram.com/_s_a_i____k_i_r_a_n_?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_s_a_i____k_i_r_a_n_?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/saikiranravipat1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/saikiranravipat1?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/saikiranravipati1060/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/saikiranravipati1060/" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/saikiran01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/saikiranravipati1060/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
