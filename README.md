@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran Ravipati</h1>
-<h3 align="center">Strong in design and integration with intuitive problem-solving skills. Proficient in Python, C++, Java, Javascript. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.</h3>
+<h3 align="center">Dynamic and results-driven Associate Engineer with hands-on experience in Python, SQL, and Cloud technologies (GCP). Proficient in AI/ML and Generative AI with a strong foundation in software development and data engineering. Adept at problem-solving, process optimization, and translating business requirements into technical solutions. Passionate about leveraging cutting-edge technologies to deliver impactful results in dynamic and collaborative environments."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiran20011060&label=Profile%20views&color=0e75b6&style=flat" alt="saikiran20011060" /> </p>
 
