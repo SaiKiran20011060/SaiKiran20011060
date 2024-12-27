@@ -34,7 +34,8 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/HhgfrK4J_RXmyXr5Vp3b1UQPkZotzb9QQARPQE-LCJgaULVcEI6KpXAy0lq-Z3fYSv4UFGakDQ=s900-c-k-c0x00ffffff-no-rj" alt="unreal" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhPftuKPEqskRCfpWQeOQlBAI9ZgxXfOvr3w&s" alt="xd" width="40" height="40"/> </a> 
-<a href="https://ai.google.dev/" target="_blank" rel="noreferrer"> <img src="https://fleekitsolutions.com/wp-content/uploads/2023/12/gemini-1.png" alt="c" width="40" height="40"/>
+<a href="https://ai.google.dev/" target="_blank" rel="noreferrer"> <img src="https://fleekitsolutions.com/wp-content/uploads/2023/12/gemini-1.png" alt="Gemini AI API" width="40" height="40"/>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" alt="Gemini AI API" width="40" height="40"/>
 
 </p>
 
