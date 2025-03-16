@@ -20,7 +20,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<button style="background-color: purple; color: white; padding: 10px; border: none; cursor: pointer;" type="button"> C Programming </button>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://datapro.in/uploads/1a73de2b9ea968a014158e1af9839dc0.png" alt="c" width="100" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -33,7 +32,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bairesdev.com%2Fblog%2Fwhat-is-unreal-engine%2F&psig=AOvVaw0-NHRJ7CaIN5RQdQBLW_0-&ust=1742235231540000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCDgpWaj4wDFQAAAAAdAAAAABAE" alt="unreal" width="40" height="40"/> </a> 
+<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://bairesdev.mo.cloudinary.net/blog/2022/08/ue-logo-1400x788-1400x788-8f185e1e3635-1.jpg" alt="unreal" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhPftuKPEqskRCfpWQeOQlBAI9ZgxXfOvr3w&s" alt="xd" width="40" height="40"/> </a> 
 <a href="https://ai.google.dev/" target="_blank" rel="noreferrer"> <img src="https://fleekitsolutions.com/wp-content/uploads/2023/12/gemini-1.png" alt="Gemini AI API" width="40" height="40"/>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" alt="Gemini AI API" width="40" height="40"/>
