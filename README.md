@@ -36,7 +36,8 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhPftuKPEqskRCfpWQeOQlBAI9ZgxXfOvr3w&s" alt="xd" width="40" height="40"/> </a> 
 <a href="https://ai.google.dev/" target="_blank" rel="noreferrer"> <img src="https://fleekitsolutions.com/wp-content/uploads/2023/12/gemini-1.png" alt="Gemini AI API" width="40" height="40"/>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" alt="Gemini AI API" width="40" height="40"/>
-
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://tse2.mm.bing.net/th/id/OIP.nYwEMPPkz-vUxNtDfQ8VJgHaHa?w=170&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" alt="Gemini AI API" width="40" height="40"/>
+  
 </p>
 
 
