@@ -38,7 +38,7 @@
 <a href="https://ai.google.dev/" target="_blank" rel="noreferrer"> <img src="https://fleekitsolutions.com/wp-content/uploads/2023/12/gemini-1.png" alt="Gemini AI API" width="40" height="40"/>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" alt="Streamlit" width="40" height="40"/>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://tse2.mm.bing.net/th/id/OIP.nYwEMPPkz-vUxNtDfQ8VJgHaHa?w=170&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" alt="Air Flow" width="40" height="40"/>
-<a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Shiny_%28web_framework%29#/media/File:Shiny_hex_logo.svg" alt="Shiny" width="40" height="40"/>
+<a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="https://www.robwiederstein.org/2021/05/06/first-predictive-shiny-app/feature.jpg" alt="Shiny" width="40" height="40"/>
 
 </p>
 
