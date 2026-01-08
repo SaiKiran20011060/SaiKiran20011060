@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiran20011060&label=Profile%20views&color=0e75b6&style=flat" alt="saikiran20011060"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikiran20011060" alt="saikiran20011060" /></a> </p>
 
 -  Here is my profile : https://saikiran20011060.github.io/Sai-Kiran-s-Portfolio/
 - 👨‍💻 All of my projects are available at [https://github.com/SaiKiran20011060](https://github.com/SaiKiran20011060)
