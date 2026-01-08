@@ -44,5 +44,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikiran20011060&show_icons=true&locale=en&layout=compact" alt="saikiran20011060" /></p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikiran20011060&show_icons=true&locale=en" alt="saikiran20011060" /></p>-->
