@@ -41,6 +41,3 @@
 <a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="https://www.robwiederstein.org/2021/05/06/first-predictive-shiny-app/feature.jpg" alt="Shiny" width="80" height="80"/>
 
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikiran20011060&show_icons=true&locale=en&layout=compact" alt="saikiran20011060" /></p>
