@@ -1,9 +1,9 @@
 # 💫 About Me:
 I’m a passionate Data Engineer & AI Engineer with hands-on experience building cloud-native data pipelines, AI-powered applications, and scalable backend systems. I work across GCP and AWS, leveraging tools like BigQuery, Cloud Storage, Airflow, Lambda, S3, RDS, and Generative AI (Gemini, Bedrock) to transform raw data into meaningful insights. I enjoy solving real-world problems using Python, SQL, Spark, and AI-driven automation, and I love building end-to-end solutions—from data ingestion to intelligent user-facing applications. Always curious, always learning, and excited to collaborate on impactful, data-driven projects. I enjoy building small web projects in my free time to experiment with new ideas and improve my full-stack skills.
 
-# 👤 Profile/Blog:
+# 👤 Profile:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://saikiran20011060.github.io/Sai-Kiran-s-Portfolio/)
-## 🌐 Socials:
+## 🌐 Socials/Blog:
 [![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?logo=hashnode&logoColor=white)](file:///C:/Users/saiki/OneDrive/Desktop/SAI/Projects/blog/index.html) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sai.saikiran.169123/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sai___kiran_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kiran-ravipati-019239193/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saikiranravipati24@gmail.com) 
 
 # 💻 Tech Stack:
